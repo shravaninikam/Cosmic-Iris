@@ -3,8 +3,7 @@
 Cosmic Iris theme is a visually stunning and vibrant theme for Visual Studio Code that aims to enhance your coding experience with its cosmic-inspired color palette and modern design. This theme is designed to be visually appealing while maintaining readability and minimizing eye strain during long coding sessions.
 
 
-
-![theme-preview](theme-preview.png)
+![theme](theme-preview.png)
 
 
 ## Features

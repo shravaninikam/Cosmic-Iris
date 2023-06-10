@@ -1,0 +1,30 @@
+{
+  "name": "cosmic-iris",
+  "icon": "icon.png",
+  "displayName": "Cosmic Iris",
+  "description": "Cosmic Iris is a captivating dark theme with deep purples and iridescent shades, inspired by the beauty of the cosmos and the vibrant iris flower.",
+  "publisher":"shravaninikam",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme","dark themes","cosmic", "purple", "purple theme", "dark","themes", "cosmic theme", "space theme","vscode","vscode theme","iris","cosmos"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CosmicDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmic-iris-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shravaninikam/Cosmic-Iris"
+    }
+}
